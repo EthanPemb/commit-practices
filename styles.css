@@ -12,4 +12,7 @@ main {
 
 body {
     background-color: bisque;
+    padding: 25%;
+    word-spacing: 25%;
+    line-height: 40px;
 }
